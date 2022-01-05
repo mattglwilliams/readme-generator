@@ -9,8 +9,8 @@ async function init() {
   if (answers) {
     const readmeContent = utils.generateMarkdown(answers);
 
-    fs.writeFile("index.html", readmeContent, (err) =>
-      err ? console.log(err) : console.log("Successfully created index.html!")
+    fs.writeFile("NewREADME.md", readmeContent, (err) =>
+      err ? console.log(err) : console.log("Successfully created your README!")
     );
   } else {
     console.error("Something went wrong");
