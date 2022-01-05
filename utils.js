@@ -10,15 +10,15 @@ const generateMarkdown = ({
   github,
   email,
 }) => `# ${title}
-[![License](https://img.shields.io/badge/License-${licenseBadge}-green.svg)]
+![License](https://img.shields.io/badge/License-${licenseBadge}-green.svg)
 ## Contents
-* [Description] (#description)
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Contribution] (#contribution)
-* [Testing] (#testing)
-* [Questions] (#questions)
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contribution](#Contribution)
+* [Testing](#Testing)
+* [Questions](#Questions)
 
 ## Description
 ${description}
