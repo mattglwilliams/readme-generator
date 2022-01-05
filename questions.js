@@ -21,9 +21,14 @@ const questions = [
   },
   {
     type: "checkbox",
-    name: "license",
+    name: "licenseBadge",
     message: "Please choose a license for your project?",
     choices: ["Apache", "MIT", "MPL", "ISC"],
+  },
+  {
+    type: "input",
+    name: "licenseDesc",
+    message: "Please explain the license for this project?",
   },
   {
     type: "input",
