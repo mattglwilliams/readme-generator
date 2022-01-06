@@ -9,7 +9,7 @@ async function init() {
   if (answers) {
     const readmeContent = utils.generateMarkdown(answers);
 
-    fs.writeFile("README.md", readmeContent, (err) =>
+    fs.writeFile("TestREADME.md", readmeContent, (err) =>
       err ? console.log(err) : console.log("Successfully created your README!")
     );
   } else {
