@@ -1,33 +1,32 @@
 # Professional README Generator
-![License](https://img.shields.io/badge/License-Apache-green.svg)
+
 ## Contents
-* [Description](#Description)
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [License](#License)
-* [Contribution](#Contribution)
-* [Testing](#Testing)
-* [Questions](#Questions)
+
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contribution](#Contribution)
+- [Testing](#Testing)
+- [Questions](#Questions)
 
 ## Description
-This is a professional CLI README generator made with node.js
+
+This project is a professional CLI README generator made with node.js.
+
+To see an example of how to use it, please watch this short video - https://watch.screencastify.com/v/6zB3oZCUHsz2itnXeikB.
 
 ## Installation
-If you wish to install this, simply clone the repo and use the command npm i
+
+To install it, simply clone the repo and run the command npm i
 
 ## Usage
-Feel free to use this to create a professional README for all of your projects
 
-## License
-This section can be used to explain the license for the project
-
-## Contribution
-If anybody wishes to contribute, please use clean code, comments and commit messages.
-
-## Testing
-Testing 1 2 1 2
+You can use this for all of your projects to create a professional README.
 
 ## Questions
+
 Please contact me at either of the below options:
-* https://github.com/mattglwilliams
-* mattwilliamsdev@gmail.com
+
+- https://github.com/mattglwilliams
+- mattwilliamsdev@gmail.com
