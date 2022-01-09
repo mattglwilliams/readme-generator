@@ -18,11 +18,11 @@ To see an example of how to use it, please watch this short video - https://watc
 
 ## Installation
 
-To install it, simply clone the repo and run the command npm i
+To install it, simply clone the repo and run the command 'npm i'.
 
 ## Usage
 
-You can use this for all of your projects to create a professional README.
+To use the application, simple navigate to the folder in your terminal and run the command 'node index.js'. You can use this for all of your projects to create a professional README.
 
 ## Questions
 
